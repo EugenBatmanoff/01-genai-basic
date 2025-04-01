@@ -15,7 +15,7 @@ e.g.
 ---
 ### Request examples:
 ### 1. 
-- _REQUEST URL:_ `localhost:8080/api/chat?input=describe the stock market briefly`
+- _REQUEST URL:_ `describe the stock market briefly`
 - _RESPONSE_:  
 ``` 
 {
